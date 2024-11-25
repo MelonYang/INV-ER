@@ -10,10 +10,10 @@ The dataset in the paper can be shown in <a href="./Dataset.CSV">Dataset.CSV</a>
 
 ### The whole results
 Due to the page limitation of the paper, the experimental results are shown here to prove the authenticity of the paper.<br>
-Table 3 in the paper is shown in <a href="Table3">Table 3</a>.<br>
-Table 4 in the paper is shown in <a href="Table4">Table 4</a>.<br>
-Table 6 in the paper is shown in <a href="Table6">Table 6</a>.<br>
-Table 8 in the paper is shown in <a href="Table8">Table 8</a>.<br>
+Table 3 in the paper is shown in <a href="Table3.md">Table 3</a>.<br>
+Table 4 in the paper is shown in <a href="Table4.md">Table 4</a>.<br>
+Table 6 in the paper is shown in <a href="Table6.md">Table 6</a>.<br>
+Table 8 in the paper is shown in <a href="Table8.md">Table 8</a>.<br>
 
 The detailed meaning of the tables can be seen in the paper.
 
