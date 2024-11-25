@@ -1,3 +1,4 @@
+# Table 8:The compatibility rate table of the dataset
 | Permutation of 6 attributes | Ranking Result                | CR       |
 |----------------------------|-------------------------------|----------|
 | $000001$                   | $JBFHAEMILNKDCOG$             | 13.33%   |

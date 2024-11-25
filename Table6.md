@@ -1,4 +1,4 @@
-# Table6: Employ PPT to Convert BPA into Probability Mass
+# Table 6: Employ PPT to Convert BPA into Probability Mass
 
 | Alternative | Probability Masses |
 |-------------|--------------------|

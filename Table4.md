@@ -1,4 +1,4 @@
-# Table: Normalize the Mapping BPA of 6 Attributes of 15 Alternatives
+# Table 4: Normalize the Mapping BPA of 6 Attributes of 15 Alternatives
 
 | Attribute | Normalized BPA |
 |-----------|----------------|
